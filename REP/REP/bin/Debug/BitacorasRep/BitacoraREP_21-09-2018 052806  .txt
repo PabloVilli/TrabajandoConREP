@@ -1,0 +1,1220 @@
+BITACORA DE ENVIO DE DOCUMENTOS RECEPCION ELECTRONICA DE PÁGOS
+Empresa                : 
+Fecha y Hora de Inicio : 21/09/2018 05:28:06 p. m.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000015.xml el archivo anterior se cargo correctamente
+
+*Documento invalido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\0D5FA6A8-9B0E-4955-8357-25273E610121.xml el archivo no corresponde a un xml de REP o el UUDI es de prueba, UUID: 0D5FA6A8-9B0E-4955-8357-25273E610121
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F000000000110 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F000000000110.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000016 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000016.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000017 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000017.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000018 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000018.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000019 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000019.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000111 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000111.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000112 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000112.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000113 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000113.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000114 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000114.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000115 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000115.xml el archivo anterior se cargo correctamente
+
+*Documento invalido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\D\0D94631D-F8B7-4C30-B0BE-6DBD24E61BE8.xml el archivo no corresponde a un xml de REP o el UUDI es de prueba, UUID: 0D94631D-F8B7-4C30-B0BE-6DBD24E61BE8
+
+*Documento invalido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\D\B\Q\0D5B3F52-186E-4ECC-A376-AD3786EB6430.xml el archivo no corresponde a un xml de REP o el UUDI es de prueba, UUID: 0D5B3F52-186E-4ECC-A376-AD3786EB6430
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000116 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000116.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia (2).xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia (2).xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000015.xml el archivo anterior se cargo correctamente
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  -Se agrego el registro a la BD con UUID:   0B50077F-A271-4F26-B12B-63FE9F58EB2F
+
+  -Se agrego el registro a la BD con UUID:   0A55B73A-4797-4C05-9FD4-F1DB6C160EC0
+
+  -Se agrego el registro a la BD con UUID:   0AA52879-56EA-4FD9-8035-6A7F637E6B53
+
+  -Se agrego el registro a la BD con UUID:   0C65DBE7-1F9E-4EDA-B6A5-D8E46895C055
+
+  -Se agrego el registro a la BD con UUID:   0D5B3F52-186E-4ECC-A376-AD3786EB6430
+
+  -Se agrego el registro a la BD con UUID:   0A49B07E-3B89-48BF-BF51-AFCCDEEF3BE9
+
+  -Se agrego el registro a la BD con UUID:   0AEB41BB-57A8-4157-B550-E664896875EE
+
+  -Se agrego el registro a la BD con UUID:   0D5FA6A8-9B0E-4955-8357-25273E610121
+
+  -Se agrego el registro a la BD con UUID:   0C506CBB-C101-45BA-A992-A235C1403D9E
+
+  -Se agrego el registro a la BD con UUID:   0C8BC13C-F39C-4998-9CDE-F76E0788390B
+
+  -Se agrego el registro a la BD con UUID:   0C6AA9FF-DCBE-43B3-A331-F873D6D15C1B
+
+  -Se agrego el registro a la BD con UUID:   0BFF1ECF-DE2C-4E93-B9FB-A2544B408CF4
+
+  -Se agrego el registro a la BD con UUID:   0D94631D-F8B7-4C30-B0BE-6DBD24E61BE8
+
+  -Se agrego el registro a la BD con UUID:   2FC25076-D80F-4EFA-BE53-0CD16AF04F9A
+
+  -Se agrego el registro a la BD con UUID:   2FA17EC9-27CC-4E41-9862-CAD3DE86E7CB
+
+  -Se agrego el registro a la BD con UUID:   2F95121F-928C-4B4B-AEB2-FFB75366D019
+
+  -Se agrego el registro a la BD con UUID:   0A130E9F-0068-40DB-9FBE-2527912822BB
+
+  -Se agrego el registro a la BD con UUID:   0CA01378-CC09-49F4-AAC6-AED3BF2799E2
+
+  -Se agrego el registro a la BD con UUID:   0C9455F8-18C3-4B97-A820-5231A3C3AB28
+
+  -Se agrego el registro a la BD con UUID:   0A196C39-8DC4-44EB-8BE5-50F33F2B9B78
+
+  -Se agrego el registro a la BD con UUID:   0C5E7445-D210-42C0-A544-B0113CB2A167
+
+  -Se agrego el registro a la BD con UUID:   00E786D4-59E5-4EA5-A2EC-A690D6551AA3
+
+  -Se agrego el registro a la BD con UUID:   0A2ACD92-6FAE-46A4-858A-C8F897B15087
+
+  -Se agrego el registro a la BD con UUID:   0A8EB5F4-6ABF-44B0-B1E1-4E812A50A118
+
+  -Se agrego el registro a la BD con UUID:   0A10E440-9BCC-4894-B072-BC0AE8D552C5
+
+  -Se agrego el registro a la BD con UUID:   03CC2FD8-4B51-4E8B-A2C4-E415A6869812
+
+  -Se agrego el registro a la BD con UUID:   2FDC2960-F77A-4242-A16B-A85CFDCCB9A0
+
+  -Se agrego el registro a la BD con UUID:   0AA26EB3-6C0C-4030-A3E5-4AA9643C5824
+
+  -Se agrego el registro a la BD con UUID:   0AB3BFAF-50D9-41D3-82A7-3425A444AEA4
+
+  -Se agrego el registro a la BD con UUID:   0ABC7EAA-734D-4567-8BFF-96F5292434B7
+
+  -Se agrego el registro a la BD con UUID:   0AC57AC3-7A6C-4A96-8029-FDA9924A3075
+
+  -Se agrego el registro a la BD con UUID:   0B6DD208-DF71-42DF-B806-282600CAD840
+
+  -Se agrego el registro a la BD con UUID:   3B215DED-BDA8-4B34-9FB4-98C9B75F8403
+
+  -Se agrego el registro a la BD con UUID:   3BD3AD3B-A8E3-45A9-9CE2-6B4C10B0647C
+
+  -Se agrego el registro a la BD con UUID:   03D1DDAF-EDE9-4BE4-9FA3-93E5C40D1B88
+
+  -Se agrego el registro a la BD con UUID:   3B701C7A-F946-4041-8A75-96718AA3A1C6
+
+  -Se agrego el registro a la BD con UUID:   3B78383F-74D5-4F8D-A624-0A3BE6499C5F
+
+  -Se agrego el registro a la BD con UUID:   3B42108D-217E-4792-A7D5-A5B1B09F9F62
+
+  -Se agrego el registro a la BD con UUID:   3B815504-645F-402A-82AF-E0F32B39C33E
+
+  -Se agrego el registro a la BD con UUID:   3BB92FF2-E5E5-4716-9B1B-6514F8064D33
+
+  -Se agrego el registro a la BD con UUID:   0C68D0DB-7223-4185-ADAC-DF575811EE92
+
+  -Se agrego el registro a la BD con UUID:   0CDAADE6-D606-4E06-B59A-317CA86B650B
+
+  -Se agrego el registro a la BD con UUID:   0CDE55DE-F46C-4052-BC8E-D10A429FFDFB
+
+  -Se agrego el registro a la BD con UUID:   0B6DD307-DF71-42RF-B806-282600CDD840
+
+  -Se agrego el registro a la BD con UUID:   0B49A406-1F1C-455A-8D20-83D61266E552
+
+  -Se agrego el registro a la BD con UUID:   0B61D5D8-49DA-4737-9DBE-9B92BDE28811
+
+  -Se agrego el registro a la BD con UUID:   0BADA991-03FD-45E7-80D5-30660E73D5A0
+
+  -Se agrego el registro a la BD con UUID:   0C3E29ED-4DCA-4EB1-A69C-8DB13D93DBE1
+
+  -Se agrego el registro a la BD con UUID:   0C38AE5A-12E6-4F98-803B-4E852C488486
+
+  -Se agrego el registro a la BD con UUID:   0F34C38B-21P8-4BE2-B7F8-8F53466D3805
+
+  -Se agrego el registro a la BD con UUID:   0DD12175-7443-4886-B464-8217026814F3
+
+  -Se agrego el registro a la BD con UUID:   0E306D77-4C33-4CA0-9538-3AD0023FF83F
+
+  -Se agrego el registro a la BD con UUID:   0E308B61-96ED-42B3-9720-044E6782E447
+
+  -Se agrego el registro a la BD con UUID:   0EBD5C1C-4FBF-4F9A-8157-09FCEE79A04E
+
+  -Se agrego el registro a la BD con UUID:   0D99A005-070A-406F-BB0D-9E6DF88578BD
+
+  -Se agrego el registro a la BD con UUID:   0D47A6AD-500A-4DD7-86EA-C349201ECB17
+
+  -Se agrego el registro a la BD con UUID:   0D457C85-E50C-492C-9DB1-778EA597A1A8
+
+  -Se agrego el registro a la BD con UUID:   0D89143E-FC21-47F2-9C92-3781C330BF6B
+
+  -Se agrego el registro a la BD con UUID:   0DC4F048-8736-4530-BD29-E45C3C8DB0A6
+
+  -Se agrego el registro a la BD con UUID:   0DCAC6C4-E556-4E11-8C1E-0FF0AC7FB74B
+
+  -Se agrego el registro a la BD con UUID:   0F8A2C8C-C79A-48B8-8577-DECD211A7B7C
+
+  -Se agrego el registro a la BD con UUID:   0F34C5DC-F5A9-4400-8650-48BA00725CAD
+
+  -Se agrego el registro a la BD con UUID:   0F708F21-C0C1-467A-A25B-BED12870B683
+
+  -Se agrego el registro a la BD con UUID:   0F865177-D4AF-4FBC-A8E1-630F3E312FDF
+
+  -Se agrego el registro a la BD con UUID:   0F935872-3A93-4934-B66F-66577C992D38
+
+  -Se agrego el registro a la BD con UUID:   0ED66E1B-08AB-4F63-9D21-2DBB0F132FC8
+
+  -Se agrego el registro a la BD con UUID:   0F0E6A28-FBEA-4A34-9613-83DD5E894CC0
+
+  -Se agrego el registro a la BD con UUID:   0F2D67DE-DED8-44DB-A2B5-2E9B0CA34F29
+
+  -Se agrego el registro a la BD con UUID:   0F5A519E-9249-4407-AC92-C2C53026ECC5
+
+  -Se agrego el registro a la BD con UUID:   0C8DC13C-F31C-4658-9CDV-F76E0778390B
+
+  -Se agrego el registro a la BD con UUID:   1A20E749-FB5E-4821-9B80-F24FC56FA77F
+
+  -Se agrego el registro a la BD con UUID:   1A1A08FA-34B9-4228-A954-6D78AC58A6BE
+
+  -Se agrego el registro a la BD con UUID:   01C9DAE9-7EE9-4722-9F6D-9DC084DB1D4B
+
+  -Se agrego el registro a la BD con UUID:   0FDFBA7A-2C64-40C1-8698-FBE9BD71D176
+
+  -Se agrego el registro a la BD con UUID:   0FD94CDF-8DA8-47F3-84C7-BB0CF8211AD2
+
+  -Se agrego el registro a la BD con UUID:   0FD2A404-D0DE-462B-A79E-4CCD7A495A42
+
+  -Se agrego el registro a la BD con UUID:   0FCAF1CA-9C64-43E5-AECF-3DA86C56E4E8
+
+  -Se agrego el registro a la BD con UUID:   0F997378-36E6-441C-A8C2-37FA90F7E683
+
+  -Se agrego el registro a la BD con UUID:   1A79C10E-5CCE-4F60-B74C-3B175FE7673E
+
+  -Se agrego el registro a la BD con UUID:   1A68FD74-4509-41F8-86AA-929620880C90
+
+  -Se agrego el registro a la BD con UUID:   1BF61610-A829-44FF-BF92-FF3117528ADD
+
+  -Se agrego el registro a la BD con UUID:   1BFFC9AE-11A7-4B0A-857E-91EBE70C63DE
+
+  -Se agrego el registro a la BD con UUID:   1C8B1FCE-E1F0-4CCA-B008-24394A23904C
+
+  -Se agrego el registro a la BD con UUID:   1B84B903-DD9A-48B1-B0BF-37E23866EFFE
+
+  -Se agrego el registro a la BD con UUID:   1B2405DE-CF56-45C8-B62B-2174F2BE41D1
+
+  -Se agrego el registro a la BD con UUID:   1B507294-C0B3-4188-90D1-6163858DE0D5
+
+  -Se agrego el registro a la BD con UUID:   1BA5CA38-5578-4CB1-9769-2CDE1712B559
+
+  -Se agrego el registro a la BD con UUID:   1BB4D185-4140-4D94-A412-77A8A4C4C6D6
+
+  -Se agrego el registro a la BD con UUID:   1BBB46C4-8748-4BD7-981E-610B689D3BD7
+
+  -Se agrego el registro a la BD con UUID:   1BE4D7EA-6C63-480B-BE1E-74EFD867C6D6
+
+  -Se agrego el registro a la BD con UUID:   1CD77D3F-F6CF-45C6-A5C0-1D7069AA756C
+
+  -Se agrego el registro a la BD con UUID:   1D67CACB-43B8-4EDF-9DC6-EC63F865197B
+
+  -Se agrego el registro a la BD con UUID:   1D90AFFF-824C-4613-836B-2DD56B74BAB3
+
+  -Se agrego el registro a la BD con UUID:   1D970F88-AE82-4FC4-A49C-FE268D3A299E
+
+  -Se agrego el registro a la BD con UUID:   1D8979F6-1A30-4C79-9F11-363DB00532BA
+
+  -Se agrego el registro a la BD con UUID:   1C30C756-5CFA-43A6-954B-3A21064FDE2A
+
+  -Se agrego el registro a la BD con UUID:   1C91D8DB-BAE7-46D7-8C13-2A16A45026CD
+
+  -Se agrego el registro a la BD con UUID:   1C94EB27-BBB6-4256-A541-711DA552C732
+
+  -Se agrego el registro a la BD con UUID:   1C0144BD-21E9-4CD5-9408-770196994885
+
+  -Se agrego el registro a la BD con UUID:   1CD53C40-2AA3-41EF-8074-005D3FED51E9
+
+  -Se agrego el registro a la BD con UUID:   1E9FF49A-ABB0-4247-A8CC-EFC41BCEFF80
+
+  -Se agrego el registro a la BD con UUID:   1E65B1E3-6D0F-40D5-8A96-FEF9337BC79F
+
+  -Se agrego el registro a la BD con UUID:   1E513125-CCA7-411F-A2CD-501A697D88A1
+
+  -Se agrego el registro a la BD con UUID:   1EB55E89-02FA-4C2D-AFE5-10F71C7EAF96
+
+  -Se agrego el registro a la BD con UUID:   1EE97C7C-C603-4EEC-963A-0085FB9C6793
+
+  -Se agrego el registro a la BD con UUID:   1DA27515-73D9-4E9C-9267-975E159C3602
+
+  -Se agrego el registro a la BD con UUID:   1DB3D2FF-423F-4E60-BF2A-FCFDF346D857
+
+  -Se agrego el registro a la BD con UUID:   1DDB03F8-42CE-4EAA-9B82-D75F982982C7
+
+  -Se agrego el registro a la BD con UUID:   1E1D0998-60C9-4C4D-B762-895E3018B1E1
+
+  -Se agrego el registro a la BD con UUID:   1E5AF0CC-93DD-4CBF-AF6C-02545A75ABD2
+
+  -Se agrego el registro a la BD con UUID:   1F967B1A-30D1-4964-BBE3-8F9AB971A23E
+
+  -Se agrego el registro a la BD con UUID:   1F134122-D8F8-4BAC-8B25-074722D71EE1
+
+  -Se agrego el registro a la BD con UUID:   1FA4C2C7-71F0-4F86-BA3B-AE644C805121
+
+  -Se agrego el registro a la BD con UUID:   1FA27AC9-EBE9-4F8F-8AFB-F554A5480859
+
+  -Se agrego el registro a la BD con UUID:   1F8B021A-7470-4BBF-B666-3C401BD46EAB
+
+  -Se agrego el registro a la BD con UUID:   1F13D062-377F-4DAB-AF4B-8533D609D013
+
+  -Se agrego el registro a la BD con UUID:   1F44A070-67BD-458C-937E-7F3CB0EA570B
+
+  -Se agrego el registro a la BD con UUID:   1F48AB69-6A06-4A62-AF7A-D3531D87241B
+
+  -Se agrego el registro a la BD con UUID:   1F550A89-6DBA-411A-B53C-EC9C93DF848F
+
+  -Se agrego el registro a la BD con UUID:   1F0600EE-14D1-4190-9B5C-DD9B24BAA1CA
+
+  -Se agrego el registro a la BD con UUID:   2ACEFCB7-605E-47CC-88E9-95075D92713A
+
+  -Se agrego el registro a la BD con UUID:   2ACB06BD-E9E5-414E-A8F9-A375F6544A0B
+
+  -Se agrego el registro a la BD con UUID:   2AB7A40D-0FBF-4FBF-AE31-C94AD9F52906
+
+  -Se agrego el registro a la BD con UUID:   2BB99D4C-21A1-42C5-B5B9-12EAC60B3903
+
+  -Se agrego el registro a la BD con UUID:   2B624C63-6825-4215-A84E-CC0FB431714B
+
+  -Se agrego el registro a la BD con UUID:   2B075B84-F3FA-429C-BAC0-007286DB6DE4
+
+  -Se agrego el registro a la BD con UUID:   2AEAFE6F-CDB6-4ED1-B50D-86EF1E0CEBBF
+
+  -Se agrego el registro a la BD con UUID:   2AE8CA0D-6D71-4B3D-9C5C-213978E3C937
+
+  -Se agrego el registro a la BD con UUID:   2ADD0C03-1DDA-473F-9D10-CE22BA7D0141
+
+  -Se agrego el registro a la BD con UUID:   2ADACFC5-43D3-4929-95D9-01E89F3E0B50
+
+  -Se agrego el registro a la BD con UUID:   2BF7E966-0522-49CE-8475-29C4B19B4758
+
+  -Se agrego el registro a la BD con UUID:   2D03A221-D2A0-4C7B-A82D-18CD8A5A4344
+
+  -Se agrego el registro a la BD con UUID:   2CE4EE06-B969-425F-962F-8C814A257839
+
+  -Se agrego el registro a la BD con UUID:   2CB7F291-39A9-4E25-A219-CB07A8142352
+
+  -Se agrego el registro a la BD con UUID:   2CAECB31-C23F-42D2-8F6C-DDBDD59F412E
+
+  -Se agrego el registro a la BD con UUID:   2CACCFE8-C51E-4FCA-B0A2-0106D6790DF2
+
+  -Se agrego el registro a la BD con UUID:   2C3802F2-9BFB-4B07-9176-6D3838C6FE51
+
+  -Se agrego el registro a la BD con UUID:   2C8FD776-993B-4A0A-91CD-14C8B0EFA938
+
+  -Se agrego el registro a la BD con UUID:   2C01F9D0-39D1-4291-AEAF-BB50BC21414D
+
+  -Se agrego el registro a la BD con UUID:   2BFF9B5A-A968-40E2-812A-C5D4E6F2A2F5
+
+  -Se agrego el registro a la BD con UUID:   02A0F8E7-9391-4940-8605-95F0C85734BB
+
+  -Se agrego el registro a la BD con UUID:   1FE1287F-DC23-44B3-88AF-7DA18FCFFA6F
+
+  -Se agrego el registro a la BD con UUID:   2AAE85EC-2B51-4152-AB13-863BD28AB647
+
+  -Se agrego el registro a la BD con UUID:   2A822699-E3F9-48D7-9114-27B0C0E8388A
+
+  -Se agrego el registro a la BD con UUID:   2A745671-C04B-4FEC-8804-CD64B979F311
+
+  -Se agrego el registro a la BD con UUID:   2A1797E5-BC11-4D9D-B369-BFB61ECFDB2C
+
+  -Se agrego el registro a la BD con UUID:   2A93ADC2-7ED2-446D-AB70-C1C142CBAC75
+
+  -Se agrego el registro a la BD con UUID:   02FA2C43-97C8-47DD-9B77-45ADA24A5893
+
+  -Se agrego el registro a la BD con UUID:   02CC74F5-A918-44E8-B7E4-24011460F31D
+
+  -Se agrego el registro a la BD con UUID:   02B6FE85-1D4D-43E7-9ED1-D7BBD9918D6D
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000015.xml el archivo anterior se cargo correctamente
+
+*Documento invalido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\0D5FA6A8-9B0E-4955-8357-25273E610121.xml el archivo no corresponde a un xml de REP o el UUDI es de prueba, UUID: 0D5FA6A8-9B0E-4955-8357-25273E610121
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F000000000110 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F000000000110.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000016 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000016.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000017 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000017.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000018 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000018.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000019 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000019.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000111 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000111.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000112 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000112.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000113 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000113.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000114 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000114.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000115 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000115.xml el archivo anterior se cargo correctamente
+
+*Documento invalido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\D\0D94631D-F8B7-4C30-B0BE-6DBD24E61BE8.xml el archivo no corresponde a un xml de REP o el UUDI es de prueba, UUID: 0D94631D-F8B7-4C30-B0BE-6DBD24E61BE8
+
+*Documento invalido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\D\B\Q\0D5B3F52-186E-4ECC-A376-AD3786EB6430.xml el archivo no corresponde a un xml de REP o el UUDI es de prueba, UUID: 0D5B3F52-186E-4ECC-A376-AD3786EB6430
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000116 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000116.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia (2).xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia (2).xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000015.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000011 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000011.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000012 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000012.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000013 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000013.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000014 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000014.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000015 - copia.xml el archivo anterior se cargo correctamente
+
+  -Documento valido: C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000015.xml el archivo anterior se cargo correctamente
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*  -Documento de pago ya registrado, UUID:   0B50077F-A271-4F26-B12B-63FE9F58EB2F   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0A55B73A-4797-4C05-9FD4-F1DB6C160EC0   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   0AA52879-56EA-4FD9-8035-6A7F637E6B53   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0C65DBE7-1F9E-4EDA-B6A5-D8E46895C055   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   0D5B3F52-186E-4ECC-A376-AD3786EB6430   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0A49B07E-3B89-48BF-BF51-AFCCDEEF3BE9   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   0AEB41BB-57A8-4157-B550-E664896875EE   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0D5FA6A8-9B0E-4955-8357-25273E610121   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   0C506CBB-C101-45BA-A992-A235C1403D9E   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0C8BC13C-F39C-4998-9CDE-F76E0788390B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\A\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   0C6AA9FF-DCBE-43B3-A331-F873D6D15C1B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F000000000110 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0BFF1ECF-DE2C-4E93-B9FB-A2544B408CF4   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F000000000110.xml
+
+*  -Documento de pago ya registrado, UUID:   0D94631D-F8B7-4C30-B0BE-6DBD24E61BE8   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000016 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2FC25076-D80F-4EFA-BE53-0CD16AF04F9A   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000016.xml
+
+*  -Documento de pago ya registrado, UUID:   2FA17EC9-27CC-4E41-9862-CAD3DE86E7CB   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000017 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2F95121F-928C-4B4B-AEB2-FFB75366D019   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000017.xml
+
+*  -Documento de pago ya registrado, UUID:   0A130E9F-0068-40DB-9FBE-2527912822BB   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000018 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0CA01378-CC09-49F4-AAC6-AED3BF2799E2   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000018.xml
+
+*  -Documento de pago ya registrado, UUID:   0C9455F8-18C3-4B97-A820-5231A3C3AB28   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000019 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0A196C39-8DC4-44EB-8BE5-50F33F2B9B78   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\B\F00000000019.xml
+
+*  -Documento de pago ya registrado, UUID:   0C5E7445-D210-42C0-A544-B0113CB2A167   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000111 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   00E786D4-59E5-4EA5-A2EC-A690D6551AA3   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000111.xml
+
+*  -Documento de pago ya registrado, UUID:   0A2ACD92-6FAE-46A4-858A-C8F897B15087   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000112 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0A8EB5F4-6ABF-44B0-B1E1-4E812A50A118   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000112.xml
+
+*  -Documento de pago ya registrado, UUID:   0A10E440-9BCC-4894-B072-BC0AE8D552C5   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000113 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   03CC2FD8-4B51-4E8B-A2C4-E415A6869812   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000113.xml
+
+*  -Documento de pago ya registrado, UUID:   2FDC2960-F77A-4242-A16B-A85CFDCCB9A0   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000114 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0AA26EB3-6C0C-4030-A3E5-4AA9643C5824   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000114.xml
+
+*  -Documento de pago ya registrado, UUID:   0AB3BFAF-50D9-41D3-82A7-3425A444AEA4   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000115 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0ABC7EAA-734D-4567-8BFF-96F5292434B7   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\C\F000000000115.xml
+
+*  -Documento de pago ya registrado, UUID:   0AC57AC3-7A6C-4A96-8029-FDA9924A3075   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000116 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0B6DD208-DF71-42DF-B806-282600CAD840   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000116.xml
+
+*  -Documento de pago ya registrado, UUID:   3B215DED-BDA8-4B34-9FB4-98C9B75F8403   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia (2).xml
+
+*  -Documento de pago ya registrado, UUID:   3BD3AD3B-A8E3-45A9-9CE2-6B4C10B0647C   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   03D1DDAF-EDE9-4BE4-9FA3-93E5C40D1B88   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   3B701C7A-F946-4041-8A75-96718AA3A1C6   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000117.xml
+
+*  -Documento de pago ya registrado, UUID:   3B78383F-74D5-4F8D-A624-0A3BE6499C5F   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia (2).xml
+
+*  -Documento de pago ya registrado, UUID:   3B42108D-217E-4792-A7D5-A5B1B09F9F62   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   3B815504-645F-402A-82AF-E0F32B39C33E   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   3BB92FF2-E5E5-4716-9B1B-6514F8064D33   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\E\F000000000161.xml
+
+*  -Documento de pago ya registrado, UUID:   0C68D0DB-7223-4185-ADAC-DF575811EE92   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0CDAADE6-D606-4E06-B59A-317CA86B650B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   0CDE55DE-F46C-4052-BC8E-D10A429FFDFB   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0B6DD307-DF71-42RF-B806-282600CDD840   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   0B49A406-1F1C-455A-8D20-83D61266E552   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0B61D5D8-49DA-4737-9DBE-9B92BDE28811   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   0BADA991-03FD-45E7-80D5-30660E73D5A0   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0C3E29ED-4DCA-4EB1-A69C-8DB13D93DBE1   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   0C38AE5A-12E6-4F98-803B-4E852C488486   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0F34C38B-21P8-4BE2-B7F8-8F53466D3805   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\F\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   0DD12175-7443-4886-B464-8217026814F3   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0E306D77-4C33-4CA0-9538-3AD0023FF83F   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   0E308B61-96ED-42B3-9720-044E6782E447   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0EBD5C1C-4FBF-4F9A-8157-09FCEE79A04E   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   0D99A005-070A-406F-BB0D-9E6DF88578BD   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0D47A6AD-500A-4DD7-86EA-C349201ECB17   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   0D457C85-E50C-492C-9DB1-778EA597A1A8   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0D89143E-FC21-47F2-9C92-3781C330BF6B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   0DC4F048-8736-4530-BD29-E45C3C8DB0A6   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0DCAC6C4-E556-4E11-8C1E-0FF0AC7FB74B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\G\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   0F8A2C8C-C79A-48B8-8577-DECD211A7B7C   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0F34C5DC-F5A9-4400-8650-48BA00725CAD   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   0F708F21-C0C1-467A-A25B-BED12870B683   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0F865177-D4AF-4FBC-A8E1-630F3E312FDF   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   0F935872-3A93-4934-B66F-66577C992D38   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0ED66E1B-08AB-4F63-9D21-2DBB0F132FC8   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   0F0E6A28-FBEA-4A34-9613-83DD5E894CC0   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0F2D67DE-DED8-44DB-A2B5-2E9B0CA34F29   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   0F5A519E-9249-4407-AC92-C2C53026ECC5   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0C8DC13C-F31C-4658-9CDV-F76E0778390B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\H\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   1A20E749-FB5E-4821-9B80-F24FC56FA77F   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1A1A08FA-34B9-4228-A954-6D78AC58A6BE   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   01C9DAE9-7EE9-4722-9F6D-9DC084DB1D4B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0FDFBA7A-2C64-40C1-8698-FBE9BD71D176   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   0FD94CDF-8DA8-47F3-84C7-BB0CF8211AD2   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0FD2A404-D0DE-462B-A79E-4CCD7A495A42   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   0FCAF1CA-9C64-43E5-AECF-3DA86C56E4E8   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   0F997378-36E6-441C-A8C2-37FA90F7E683   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   1A79C10E-5CCE-4F60-B74C-3B175FE7673E   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1A68FD74-4509-41F8-86AA-929620880C90   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\I\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   1BF61610-A829-44FF-BF92-FF3117528ADD   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1BFFC9AE-11A7-4B0A-857E-91EBE70C63DE   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   1C8B1FCE-E1F0-4CCA-B008-24394A23904C   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1B84B903-DD9A-48B1-B0BF-37E23866EFFE   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   1B2405DE-CF56-45C8-B62B-2174F2BE41D1   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1B507294-C0B3-4188-90D1-6163858DE0D5   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   1BA5CA38-5578-4CB1-9769-2CDE1712B559   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1BB4D185-4140-4D94-A412-77A8A4C4C6D6   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   1BBB46C4-8748-4BD7-981E-610B689D3BD7   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1BE4D7EA-6C63-480B-BE1E-74EFD867C6D6   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\J\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   1CD77D3F-F6CF-45C6-A5C0-1D7069AA756C   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1D67CACB-43B8-4EDF-9DC6-EC63F865197B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   1D90AFFF-824C-4613-836B-2DD56B74BAB3   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1D970F88-AE82-4FC4-A49C-FE268D3A299E   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   1D8979F6-1A30-4C79-9F11-363DB00532BA   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1C30C756-5CFA-43A6-954B-3A21064FDE2A   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   1C91D8DB-BAE7-46D7-8C13-2A16A45026CD   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1C94EB27-BBB6-4256-A541-711DA552C732   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   1C0144BD-21E9-4CD5-9408-770196994885   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1CD53C40-2AA3-41EF-8074-005D3FED51E9   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\K\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   1E9FF49A-ABB0-4247-A8CC-EFC41BCEFF80   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1E65B1E3-6D0F-40D5-8A96-FEF9337BC79F   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   1E513125-CCA7-411F-A2CD-501A697D88A1   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1EB55E89-02FA-4C2D-AFE5-10F71C7EAF96   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   1EE97C7C-C603-4EEC-963A-0085FB9C6793   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1DA27515-73D9-4E9C-9267-975E159C3602   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   1DB3D2FF-423F-4E60-BF2A-FCFDF346D857   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1DDB03F8-42CE-4EAA-9B82-D75F982982C7   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   1E1D0998-60C9-4C4D-B762-895E3018B1E1   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1E5AF0CC-93DD-4CBF-AF6C-02545A75ABD2   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\L\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   1F967B1A-30D1-4964-BBE3-8F9AB971A23E   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1F134122-D8F8-4BAC-8B25-074722D71EE1   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   1FA4C2C7-71F0-4F86-BA3B-AE644C805121   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1FA27AC9-EBE9-4F8F-8AFB-F554A5480859   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   1F8B021A-7470-4BBF-B666-3C401BD46EAB   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1F13D062-377F-4DAB-AF4B-8533D609D013   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   1F44A070-67BD-458C-937E-7F3CB0EA570B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1F48AB69-6A06-4A62-AF7A-D3531D87241B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   1F550A89-6DBA-411A-B53C-EC9C93DF848F   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1F0600EE-14D1-4190-9B5C-DD9B24BAA1CA   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\M\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   2ACEFCB7-605E-47CC-88E9-95075D92713A   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2ACB06BD-E9E5-414E-A8F9-A375F6544A0B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   2AB7A40D-0FBF-4FBF-AE31-C94AD9F52906   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2BB99D4C-21A1-42C5-B5B9-12EAC60B3903   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   2B624C63-6825-4215-A84E-CC0FB431714B   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2B075B84-F3FA-429C-BAC0-007286DB6DE4   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   2AEAFE6F-CDB6-4ED1-B50D-86EF1E0CEBBF   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2AE8CA0D-6D71-4B3D-9C5C-213978E3C937   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   2ADD0C03-1DDA-473F-9D10-CE22BA7D0141   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2ADACFC5-43D3-4929-95D9-01E89F3E0B50   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\N\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   2BF7E966-0522-49CE-8475-29C4B19B4758   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2D03A221-D2A0-4C7B-A82D-18CD8A5A4344   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   2CE4EE06-B969-425F-962F-8C814A257839   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2CB7F291-39A9-4E25-A219-CB07A8142352   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   2CAECB31-C23F-42D2-8F6C-DDBDD59F412E   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2CACCFE8-C51E-4FCA-B0A2-0106D6790DF2   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   2C3802F2-9BFB-4B07-9176-6D3838C6FE51   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2C8FD776-993B-4A0A-91CD-14C8B0EFA938   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   2C01F9D0-39D1-4291-AEAF-BB50BC21414D   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2BFF9B5A-A968-40E2-812A-C5D4E6F2A2F5   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\O\F00000000015.xml
+
+*  -Documento de pago ya registrado, UUID:   02A0F8E7-9391-4940-8605-95F0C85734BB   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000011 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   1FE1287F-DC23-44B3-88AF-7DA18FCFFA6F   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000011.xml
+
+*  -Documento de pago ya registrado, UUID:   2AAE85EC-2B51-4152-AB13-863BD28AB647   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000012 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2A822699-E3F9-48D7-9114-27B0C0E8388A   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000012.xml
+
+*  -Documento de pago ya registrado, UUID:   2A745671-C04B-4FEC-8804-CD64B979F311   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000013 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   2A1797E5-BC11-4D9D-B369-BFB61ECFDB2C   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000013.xml
+
+*  -Documento de pago ya registrado, UUID:   2A93ADC2-7ED2-446D-AB70-C1C142CBAC75   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000014 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   02FA2C43-97C8-47DD-9B77-45ADA24A5893   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000014.xml
+
+*  -Documento de pago ya registrado, UUID:   02CC74F5-A918-44E8-B7E4-24011460F31D   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000015 - copia.xml
+
+*  -Documento de pago ya registrado, UUID:   02B6FE85-1D4D-43E7-9ED1-D7BBD9918D6D   C:\Users\dsa5\Desktop\Compartir\Ejemplos Pagos 1.1\Ñ\F00000000015.xml
